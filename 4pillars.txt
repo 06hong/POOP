@@ -1,0 +1,26 @@
+Object/entity = car, book, etc a thing you want to store and process data about
+
+Abstraction = to simplify reality, use data that are relevanat and takes to perform with those data
+
+class = a template for creating object, can be resused to create object of same type
+
+attributes/fields/properties = describe the object (first last name)
+
+operations/methods = action that can be performed (percedures or functions) inside a class
+
+instanstiation= creating an object from a class
+
+encapsulation = hiding data complexity
+
+inheritance = a class can derive its methods and properties from another class
+start=base class
+subclass=derive from base class
+superclass=derive from subclass
+
+polymorphism = a class can implement an inherited method in its own way
+savedetails()
+
+
+
+
+
